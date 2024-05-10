@@ -30,6 +30,7 @@
 
     background-color: rgb(248, 248, 248);
     border-bottom: 2px solid rgb(214, 214, 214);
+    
 
     h1 {
         text-align: center;
@@ -41,13 +42,14 @@
 #pageHolder {
     display: flex;
     flex-grow: 1;
-    background-color: gray;
 }
 #holder{
     display: flex;
     flex-direction: column;
     flex-grow: 1;
 }
+/* test */
+/* test end */
 
 html {
     height: 100%;
@@ -59,7 +61,6 @@ body {
     width: 100%;
     display: flex;
     flex-direction: column;
-    background-color: rgb(203, 235, 255);
     justify-content: center;
     align-items: center;
 }
@@ -70,12 +71,45 @@ header {
 }
 
 main {
-    background-color: rgb(203, 235, 255);
     flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(0, 0, 0, 0.5);
+
+        width: 100%;
+
+        > * {
+            padding: 10px;
+            margin: 20px 0;
+            color: white;
+            font-weight: 500;
+            font-size: 40px;
+        }
+
+        a {
+            padding: 8px 16px;
+            border: 4px solid white;
+            background-color: rgba(255, 166, 0, 0.5);
+            border-radius: 8px;
+            text-decoration: none;
+        }
+
+        a:hover {
+            background-color: rgba(255, 166, 0, 0.8);
+        }
+    }
 }
 
 footer {
     min-height: 40px;
-    border-top: 2px solid rgb(214, 214, 214);
-    background-color: rgba(214, 214, 214, 0.8);
+    border-top: 2px solid rgb(214, 214, 214, .8);
+    background-color: rgba(214, 214, 214);
 }

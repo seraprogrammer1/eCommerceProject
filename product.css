@@ -17,10 +17,10 @@
 .hide {display: none;}
 
 .on {
-    background-color: rgb(203, 235, 255);
+    background-color: rgba(80, 80, 80, 0.9);
     border-radius: 10px 10px 0 0;
 }
-.product-list > div {text-align: center;}
+.product-list > div {text-align: center; color: white;}
 
 /* ids */
 #mainHolder{
@@ -49,7 +49,6 @@
 #pageHolder {
     display: flex;
     flex-grow: 1;
-    background-color: gray;
 }
 #holder{
     display: flex;
@@ -67,31 +66,30 @@ body {
     width: 100%;
     display: flex;
     flex-direction: column;
-    background-color: rgb(203, 235, 255);
     justify-content: center;
     align-items: center;
 }
 
 header {
     min-height: 5px;
-    background-color: rgba(214, 214, 214, 0.8);
+    background-color: rgba(0, 0, 0, 0.9);
     display: flex;
     justify-content: center;
 
     p {
         margin: 0 10px;
         padding: 10px 10px; 
-        color: black; 
+        color: white; 
         font-weight: 500;
         margin-top: 4px;
     }
 }
 
 main {
-    background-color: rgb(203, 235, 255);
     flex-grow: 1;
     display: flex;
     flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.5);
     > div {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
@@ -101,6 +99,6 @@ main {
 
 footer {
     min-height: 40px;
-    border-top: 2px solid rgb(214, 214, 214);
-    background-color: rgba(214, 214, 214, 0.8);
+    border-top: 2px solid rgb(214, 214, 214, .8);
+    background-color: rgba(214, 214, 214);
 }
