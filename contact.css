@@ -61,13 +61,21 @@
 main {
     flex-grow: 1;
     display: flex;
-    flex-direction: column;
     align-items: center;
+    justify-content: center;
+}
+
+main > div {
+  max-width: 800px;
+  height: 100%;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 form{
-    max-width: 1140px;
-    width: 600px;
+    max-width: 100%;
+    flex-grow: 1;
 
     display: flex;
     flex-direction: column;
@@ -195,3 +203,11 @@ footer {
     .space{
       margin-top: 20px;
     }
+
+@media (max-width: 375px){
+  #topBar{
+    h1{
+      font-size: 25px;
+    }
+  }
+}

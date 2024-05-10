@@ -28,40 +28,42 @@
                 </header>
 
                 <main>
-                    <form>
-                        <fieldset id="contactHolder">
-                            <h2>Contact Information</h2>
-                            <p id="small-gray-p-tag">* indicates a required field</p>
-                            <p id="large-red-p-tag">Please Complete all Require*</p>
-                            <fieldset class="set" id="nameHolder">
-                                <span name="Firstname">
-                                    <label for="firstName">First name*</label>
-                                    <input id="firstName" type="text" name="Firstname" class="required">
-                                </span>
-                                <span name="Lastname">
-                                    <label for="lastName">Last name*</label>
-                                    <input id="lastName" type="text" name="Lastname" class="required">
-                                </span>
-                            </fieldset>
-                            <fieldset class="set" id="email-Holder">
-                                    <span id="email-grow">
-                                        <label for="email">Email Address*</label>
-                                        <input id="email" type="email" name="email" class="required">
+                    <div>
+                        <form>
+                            <fieldset id="contactHolder">
+                                <h2>Contact Information</h2>
+                                <p id="small-gray-p-tag">* indicates a required field</p>
+                                <p id="large-red-p-tag">Please Complete all Require*</p>
+                                <fieldset class="set" id="nameHolder">
+                                    <span name="Firstname">
+                                        <label for="firstName">First name*</label>
+                                        <input id="firstName" type="text" name="Firstname" class="required">
                                     </span>
+                                    <span name="Lastname">
+                                        <label for="lastName">Last name*</label>
+                                        <input id="lastName" type="text" name="Lastname" class="required">
+                                    </span>
+                                </fieldset>
+                                <fieldset class="set" id="email-Holder">
+                                        <span id="email-grow">
+                                            <label for="email">Email Address*</label>
+                                            <input id="email" type="email" name="email" class="required">
+                                        </span>
+                                </fieldset>
+                                <fieldset id="commentHolder" class="set grow">
+                                    <span>
+                                    <label for="comment">Comment*</label>
+                                    <input id="comment" type="text" class="f-grow required" name="cityStateZip">
+                                    </span>
+                                </fieldset>
                             </fieldset>
-                            <fieldset id="commentHolder" class="set grow">
-                                <span>
-                                <label for="comment">Comment*</label>
-                                <input id="comment" type="text" class="f-grow required" name="cityStateZip">
-                                </span>
+    
+                            <fieldset id="submitHolder">
+                                <label for="submit"></label>
+                                <input id="submit" type="submit">
                             </fieldset>
-                        </fieldset>
-
-                        <fieldset id="submitHolder">
-                            <label for="submit"></label>
-                            <input id="submit" type="submit">
-                        </fieldset>
-                    </form>
+                        </form>
+                    </div>
                 </main>
 
                 <footer>
