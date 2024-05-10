@@ -1,0 +1,178 @@
+{
+    "Cases": [
+        {
+            "Name": "JONSBO D31 MESH SC Black Micro ATX PC Case",
+            "image": "/images/product/Cases/JONSBO D31 MESH SC Black Micro ATX PC Case.png",
+            "Price": "$144.50"
+        },
+        {
+            "Name": "Fractal Design Meshify C ATX Mid Tower Case",
+            "image": "/images/product/Cases/Fractal Design Meshify C ATX Mid Tower Case.png",
+            "Price": "$89.99"
+        },
+        {
+            "Name": "NZXT H510 Elite ATX Mid Tower Case",
+            "image": "/images/product/Cases/NZXT H510 Elite ATX Mid Tower Case.png",
+            "Price": "$149.99"
+        },
+        {
+            "Name": "Corsair 4000D Airflow ATX Mid Tower Case",
+            "image": "/images/product/Cases/Corsair 4000D Airflow ATX Mid Tower Case.png",
+            "Price": "$94.99"
+        }
+    ],
+    "Gpu": [
+        {
+            "Name": "NVIDIA GeForce RTX 4060",
+            "image": "/images/product/Gpu/NVIDIA GeForce RTX 4060.png",
+            "Price": "$350"
+        },
+        {
+            "Name": "NVIDIA GeForce RTX 4070",
+            "image": "/images/product/Gpu/NVIDIA GeForce RTX 4070.png",
+            "Price": "$600"
+        },
+        {
+            "Name": "NVIDIA GeForce RTX 4080",
+            "image": "/images/product/Gpu/NVIDIA GeForce RTX 4080.png",
+            "Price": "$1200"
+        },
+        {
+            "Name": "NVIDIA GeForce RTX 4090",
+            "image": "/images/product/Gpu/NVIDIA GeForce RTX 4090.png",
+            "Price": "$2000"
+        },
+        {
+            "Name": "AMD Radeon RX 7600 XT",
+            "image": "/images/product/Gpu/AMD Radeon RX 7600 XT.png",
+            "Price": "$319"
+        },
+        {
+            "Name": "AMD Radeon RX 7700 XT",
+            "image": "/images/product/Gpu/AMD Radeon RX 7700 XT.png",
+            "Price": "$450"
+        },
+        {
+            "Name": "AMD Radeon RX 7800 XT",
+            "image": "/images/product/Gpu/AMD Radeon RX 7800 XT.png",
+            "Price": "$650"
+        },
+        {
+            "Name": "AMD Radeon RX 7900 XT",
+            "image": "/images/product/Gpu/AMD Radeon RX 7900 XT.png",
+            "Price": "$899"
+        },
+        {
+            "Name": "AMD Radeon RX 7900 XTX",
+            "image": "/images/product/Gpu/AMD Radeon RX 7900 XTX.png",
+            "Price": "$1000"
+        }
+    ],
+    "Cpu": [
+        {
+            "Name": "Intel Core i5-14600K",
+            "image": "/images/product/Cpu/Intel Core i5-14600K.png",
+            "Price": "$320"
+        },
+        {
+            "Name": "Intel Core i7-14700K",
+            "image": "/images/product/Cpu/Intel Core i7-14700K.png",
+            "Price": "$450"
+        },
+        {
+            "Name": "Intel Core i9-14900K",
+            "image": "/images/product/Cpu/Intel Core i9-14900K.png",
+            "Price": "$600"
+        },
+        {
+            "Name": "AMD Ryzen 5 7600X",
+            "image": "/images/product/Cpu/AMD Ryzen 5 7600X.png",
+            "Price": "$299"
+        },
+        {
+            "Name": "AMD Ryzen 7 7700X",
+            "image": "/images/product/Cpu/AMD Ryzen 7 7700X.png",
+            "Price": "$399"
+        },
+        {
+            "Name": "AMD Ryzen 9 7900X",
+            "image": "/images/product/Cpu/AMD Ryzen 9 7900X.png",
+            "Price": "$549"
+        }
+    ],
+    "Motherboard": [
+        {
+            "Name": "ASUS ROG Strix Z690-E Gaming WiFi ATX Motherboard",
+            "image": "/images/product/Motherboard/ASUS ROG Strix Z690-E Gaming WiFi ATX Motherboard.png",
+            "Price": "$379.99"
+        },
+        {
+            "Name": "Gigabyte B660 AORUS MASTER DDR4 ITX Motherboard",
+            "image": "/images/product/Motherboard/Gigabyte B660 AORUS MASTER DDR4 ITX Motherboard.png",
+            "Price": "$179.99"
+        },
+        {
+            "Name": "ASUS ROG Strix Z790-E Gaming WiFi ATX Motherboard",
+            "image": "/images/product/Motherboard/ASUS ROG Strix Z790-E Gaming WiFi ATX Motherboard.png",
+            "Price": "$399.99"
+        },
+        {
+            "Name": "MSI MEG X670E ACE ATX Motherboard",
+            "image": "/images/product/Motherboard/MSI MEG X670E ACE ATX Motherboard.png",
+            "Price": "$699.99"
+        }
+    ],
+    "Powersupply": [
+        {
+            "Name": "Corsair RM750x 750W 80 Plus Gold ATX Power Supply",
+            "image": "/images/product/Powersupply/Corsair RM750x 750W 80 Plus Gold ATX Power Supply.png",
+            "Price": "$119.99"
+        },
+        {
+            "Name": "Seasonic FOCUS GX-1000, 1000W 80+ Gold, Full-Modular Power Supply",
+            "image": "/images/product/Powersupply/Seasonic FOCUS GX-1000, 1000W 80+ Gold, Full-Modular Power Supply.png",
+            "Price": "$159.99"
+        },
+        {
+            "Name": "EVGA SuperNOVA 1200 P2 1200W 80+ Platinum Fully Modular Power Supply",
+            "image": "/images/product/Powersupply/EVGA SuperNOVA 1200 P2 1200W 80+ Platinum Fully Modular Power Supply.png",
+            "Price": "$299.99"
+        }
+    ],
+    "ssd": [
+        {
+            "Name": "Samsung 970 EVO Plus SSD 500GB",
+            "image": "/images/product/ssd/Samsung 970 EVO Plus SSD 500GB.png",
+            "Price": "$79.99"
+        },
+        {
+            "Name": "Crucial P5 1TB 3D NAND NVMe Internal SSD",
+            "image": "/images/product/ssd/Crucial P5 1TB 3D NAND NVMe Internal SSD.png",
+            "Price": "$109.99"
+        },
+        {
+            "Name": "Western Digital Black SN850 2TB NVMe SSD",
+            "image": "/images/product/ssd/Western Digital Black SN850 2TB NVMe SSD.png",
+            "Price": "$229.99"
+        },
+        {
+            "Name": "Seagate FireCuda 530 4TB NVMe SSD",
+            "image": "/images/product/ssd/Seagate FireCuda 530 4TB NVMe SSD.png",
+            "Price": "$949.99"
+        }
+    ],
+    "cpuCooler": [
+        {
+            "Name": "Corsair H100i RGB Platinum SE 240mm Liquid CPU Cooler",
+            "image": "/images/product/cpuCooler/Corsair H100i RGB Platinum SE 240mm Liquid CPU Cooler.png",
+            "Price": "$169.99",
+            "type": "AIO"
+        },
+        {
+            "Name": "Noctua NH-D15 Chromax.Black, Dual-Tower CPU Cooler",
+            "image": "/images/product/cpuCooler/Noctua NH-D15 Chromax.Black, Dual-Tower CPU Cooler.png",
+            "Price": "$109.95",
+            "type": "Fan Cooler"
+        }
+    ]
+}
