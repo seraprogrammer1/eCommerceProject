@@ -76,6 +76,7 @@ function addingProducts() {
               } else {
                 const img = document.createElement("img");
                 img.src = `${product[itemElement]}`;
+                img.alt = `${key}`
                 div.appendChild(img);
                 const ImgSize = product.imageSize;
                 img.style = ImgSize ? `height: ${ImgSize.h}px; ${ImgSize.w}px` : "height: 160px; width: 160px"
