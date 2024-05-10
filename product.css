@@ -92,8 +92,18 @@ main {
     background-color: rgba(0, 0, 0, 0.5);
     > div {
         display: grid;
+        flex-grow: 1;
         grid-template-columns: repeat(4, 1fr);
         margin-top: 40px;
+
+        div {
+            max-height: 600px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+            align-items: center;
+            justify-content: space-evenly;
+        }
     }
 }
 

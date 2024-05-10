@@ -68,15 +68,18 @@ function addingProducts() {
 
           // adds product information and image
           for (let itemElement in product) {
-            if (itemElement !== "image") {
-              const pElement = document.createElement("p");
-              pElement.innerHTML = `${product[itemElement]}`;
-              div.appendChild(pElement);
-            } else {
-              const img = document.createElement("img");
-              img.src = `${product[itemElement]}`;
-              div.appendChild(img);
-              img.style = "height: 160px; width: 160px";
+            if (itemElement !== "imageSize"){
+              if (itemElement !== "image") {
+                const pElement = document.createElement("p");
+                pElement.innerHTML = `${product[itemElement]}`;
+                div.appendChild(pElement);
+              } else {
+                const img = document.createElement("img");
+                img.src = `${product[itemElement]}`;
+                div.appendChild(img);
+                const ImgSize = product.imageSize;
+                img.style = ImgSize ? `height: ${ImgSize.h}px; ${ImgSize.w}px` : "height: 160px; width: 160px"
+              }
             }
           }
         });
