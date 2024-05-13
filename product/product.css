@@ -4,16 +4,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 /* classes */
-.style-keeper {
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%,0);
-    width: 100vw;
-    height: 47px;
-    z-index: -1;
-    background-color: rgb(248, 248, 248);
-    border-bottom: 2px solid rgb(214, 214, 214);
-}
 .hide {display: none;}
 
 .on {
@@ -89,7 +79,7 @@ main {
     flex-grow: 1;
     display: flex;
     flex-direction: column;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.1);
     > div {
         display: grid;
         flex-grow: 1;

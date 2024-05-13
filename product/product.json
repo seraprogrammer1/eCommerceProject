@@ -2,26 +2,26 @@
     "Case": [
         {
             "Name": "JONSBO D31 MESH SC Black Micro ATX PC Case",
-            "image": "/images/product/Cases/JONSBO D31 MESH SC Black Micro ATX PC Case.png",
+            "image": "/images/products/Cases/JONSBO D31 MESH SC Black Micro ATX PC Case.png",
             "Price": "$144.50",
             "Description": "Compact and efficient, ideal for powerful builds in smaller spaces."
         },
         {
             "Name": "Fractal Design Meshify C ATX Mid Tower Case",
-            "image": "/images/product/Cases/Fractal Design Meshify C ATX Mid Tower Case.png",
+            "image": "/images/products/Cases/Fractal Design Meshify C ATX Mid Tower Case.png",
             "Price": "$89.99",
             "Description": "Sleek, ventilated design for optimal cooling and performance."
         },
         {
             "Name": "NZXT H510 Elite ATX Mid Tower Case",
-            "image": "/images/product/Cases/NZXT H510 Elite ATX Mid Tower Case.png",
+            "image": "/images/products/Cases/NZXT H510 Elite ATX Mid Tower Case.png",
             "imageSize": {"h": 140, "w": 160},
             "Price": "$149.99",
             "Description": "Elegant aesthetics with tempered glass and RGB lighting for enthusiasts."
         },
         {
             "Name": "Corsair 4000D Airflow ATX Mid Tower Case",
-            "image": "/images/product/Cases/Corsair 4000D Airflow ATX Mid Tower Case.png",
+            "image": "/images/products/Cases/Corsair 4000D Airflow ATX Mid Tower Case.png",
             "Price": "$94.99",
             "Description": "Optimized for high airflow with a minimalist design."
         }
@@ -29,25 +29,25 @@
     "Gpu": [
         {
             "Name": "MSI EXPERT GeForce RTX 4080 SUPER 16GB",
-            "image": "/images/product/Gpu/MSI EXPERT GeForce RTX 4080 SUPER 16GB.png",
+            "image": "/images/products/Gpu/MSI EXPERT GeForce RTX 4080 SUPER 16GB.png",
             "Price": "$1119.99",
             "Description": "High-performance gaming GPU with advanced ray tracing capabilities."
         },
         {
             "Name": "ASUS ROG Strix GeForce RTX 4090 White OC",
-            "image": "/images/product/Gpu/ASUS ROG Strix GeForce RTX 4090 White OC.png",
+            "image": "/images/products/Gpu/ASUS ROG Strix GeForce RTX 4090 White OC.png",
             "Price": "$2029.99",
             "Description": "Top-of-the-line graphics power for ultra-realistic gaming experiences."
         },
         {
             "Name": "SAPPHIRE PULSE Radeon RX 7900 XT 20GB",
-            "image": "/images/product/Gpu/SAPPHIRE PULSE Radeon RX 7900 XT 20GB.png",
+            "image": "/images/products/Gpu/SAPPHIRE PULSE Radeon RX 7900 XT 20GB.png",
             "Price": "$699.99",
             "Description": "Cutting-edge performance for gaming and professional applications."
         },
         {
             "Name": "XFX SPEEDSTER MERC310 Radeon RX 7900 XTX 24GB",
-            "image": "/images/product/Gpu/XFX SPEEDSTER MERC310 Radeon RX 7900 XTX 24GB.png",
+            "image": "/images/products/Gpu/XFX SPEEDSTER MERC310 Radeon RX 7900 XTX 24GB.png",
             "Price": "$959.99",
             "Description": "Ultimate gaming performance with innovative RDNA architecture."
         }
@@ -55,25 +55,25 @@
     "Cpu": [
         {
             "Name": "Intel Core i5-14600K",
-            "image": "/images/product/Cpu/Intel Core i5-14600K.png",
+            "image": "/images/products/Cpu/Intel Core i5-14600K.png",
             "Price": "$320",
             "Description": "Mid-range processor ideal for gaming and multitasking."
         },
         {
             "Name": "Intel Core i9-14900K",
-            "image": "/images/product/Cpu/Intel Core i9-14900K.png",
+            "image": "/images/products/Cpu/Intel Core i9-14900K.png",
             "Price": "$600",
             "Description": "Top-tier processor with exceptional multi-core performance for professionals."
         },
         {
             "Name": "AMD Ryzen 5 7600X",
-            "image": "/images/product/Cpu/AMD Ryzen 5 7600X.png",
+            "image": "/images/products/Cpu/AMD Ryzen 5 7600X.png",
             "Price": "$299",
             "Description": "Cost-effective CPU for gaming and creative work."
         },
         {
             "Name": "AMD Ryzen 7 7800X3D",
-            "image": "/images/product/Cpu/AMD Ryzen 7 7800X3D.png",
+            "image": "/images/products/Cpu/AMD Ryzen 7 7800X3D.png",
             "Price": "$549",
             "Description": "Extreme performance for gaming enthusiasts and professional creators."
         }
@@ -81,25 +81,25 @@
     "Motherboard": [
         {
             "Name": "ASUS ROG Strix Z690-E Gaming WiFi ATX Motherboard",
-            "image": "/images/product/Motherboard/ASUS ROG Strix Z690-E Gaming WiFi ATX Motherboard.png",
+            "image": "/images/products/Motherboard/ASUS ROG Strix Z690-E Gaming WiFi ATX Motherboard.png",
             "Price": "$379.99",
             "Description": "Highly durable and feature-rich for top gaming performance."
         },
         {
             "Name": "GIGABYTE B650I AORUS ULTRA AM5 AMD B650 Mini ITX Motherboard",
-            "image": "/images/product/Motherboard/GIGABYTE B650I AORUS ULTRA AM5 AMD B650 Mini ITX Motherboard.png",
+            "image": "/images/products/Motherboard/GIGABYTE B650I AORUS ULTRA AM5 AMD B650 Mini ITX Motherboard.png",
             "Price": "$179.99",
             "Description": "Compact and versatile with advanced connectivity options."
         },
         {
             "Name": "ASUS ROG Strix Z790-E Gaming WiFi ATX Motherboard",
-            "image": "/images/product/Motherboard/ASUS ROG Strix Z790-E Gaming WiFi ATX Motherboard.png",
+            "image": "/images/products/Motherboard/ASUS ROG Strix Z790-E Gaming WiFi ATX Motherboard.png",
             "Price": "$399.99",
             "Description": "Future-proof with extensive features for next-gen gaming."
         },
         {
             "Name": "MSI MEG X670E ACE ATX Motherboard",
-            "image": "/images/product/Motherboard/MSI MEG X670E ACE ATX Motherboard.png",
+            "image": "/images/products/Motherboard/MSI MEG X670E ACE ATX Motherboard.png",
             "Price": "$699.99",
             "Description": "Premium build quality and extreme performance for enthusiasts."
         }
@@ -107,19 +107,19 @@
     "Powersupply": [
         {
             "Name": "Corsair RM750x 750W 80 Plus Gold ATX Power Supply",
-            "image": "/images/product/Powersupply/Corsair RM750x 750W 80 Plus Gold ATX Power Supply.png",
+            "image": "/images/products/Powersupply/Corsair RM750x 750W 80 Plus Gold ATX Power Supply.png",
             "Price": "$119.99",
             "Description": "Reliable and efficient power delivery for high-end PCs."
         },
         {
             "Name": "Seasonic FOCUS GX-1000, 1000W 80+ Gold, Full-Modular Power Supply",
-            "image": "/images/product/Powersupply/Seasonic FOCUS GX-1000, 1000W 80+ Gold, Full-Modular Power Supply.png",
+            "image": "/images/products/Powersupply/Seasonic FOCUS GX-1000, 1000W 80+ Gold, Full-Modular Power Supply.png",
             "Price": "$159.99",
             "Description": "High wattage and modular design for versatile power management."
         },
         {
             "Name": "EVGA SuperNOVA 1200 P2 1200W 80+ Platinum Fully Modular Power Supply",
-            "image": "/images/product/Powersupply/EVGA SuperNOVA 1200 P2 1200W 80+ Platinum Fully Modular Power Supply.png",
+            "image": "/images/products/Powersupply/EVGA SuperNOVA 1200 P2 1200W 80+ Platinum Fully Modular Power Supply.png",
             "Price": "$299.99",
             "Description": "Ultra-efficient and stable power supply for extreme setups."
         }
@@ -127,28 +127,28 @@
     "ssd": [
         {
             "Name": "Samsung 970 EVO Plus SSD 500GB",
-            "image": "/images/product/ssd/Samsung 970 EVO Plus SSD 500GB.png",
+            "image": "/images/products/ssd/Samsung 970 EVO Plus SSD 500GB.png",
             "imageSize": {"h": 40, "w": 160},
             "Price": "$79.99",
             "Description": "Fast and reliable for everyday computing needs."
         },
         {
             "Name": "Crucial P5 1TB 3D NAND NVMe Internal SSD",
-            "image": "/images/product/ssd/Crucial P5 1TB 3D NAND NVMe Internal SSD.png",
+            "image": "/images/products/ssd/Crucial P5 1TB 3D NAND NVMe Internal SSD.png",
             "imageSize": {"h": 40, "w": 160},
             "Price": "$109.99",
             "Description": "Great balance of performance and capacity for gamers and professionals."
         },
         {
             "Name": "Western Digital Black SN850 2TB NVMe SSD",
-            "image": "/images/product/ssd/Western Digital Black SN850 2TB NVMe SSD.png",
+            "image": "/images/products/ssd/Western Digital Black SN850 2TB NVMe SSD.png",
             "imageSize": {"h": 40, "w": 160},
             "Price": "$229.99",
             "Description": "High-speed storage solution for intensive applications."
         },
         {
             "Name": "Seagate FireCuda 530 4TB NVMe SSD",
-            "image": "/images/product/ssd/Seagate FireCuda 530 4TB NVMe SSD.png",
+            "image": "/images/products/ssd/Seagate FireCuda 530 4TB NVMe SSD.png",
             "imageSize": {"h": 40, "w": 160},
             "Price": "$949.99",
             "Description": "Top-tier performance and massive storage capacity for demanding users."
@@ -157,14 +157,14 @@
     "cpuCooler": [
         {
             "Name": "Corsair H100i RGB Platinum SE 240mm Liquid CPU Cooler",
-            "image": "/images/product/cpuCooler/Corsair H100i RGB Platinum SE 240mm Liquid CPU Cooler.png",
+            "image": "/images/products/cpuCooler/Corsair H100i RGB Platinum SE 240mm Liquid CPU Cooler.png",
             "imageSize": {"h": 100, "w": 160},
             "Price": "$169.99",
             "Description": "Stylish and efficient cooling with customizable RGB lighting."
         },
         {
             "Name": "Noctua NH-D15 Chromax.Black, Dual-Tower CPU Cooler",
-            "image": "/images/product/cpuCooler/Noctua NH-D15 Chromax.Black, Dual-Tower CPU Cooler.png",
+            "image": "/images/products/cpuCooler/Noctua NH-D15 Chromax.Black, Dual-Tower CPU Cooler.png",
             "Price": "$109.95",
             "Description": "Superior cooling performance with a quiet operation for high-end CPUs."
         }
