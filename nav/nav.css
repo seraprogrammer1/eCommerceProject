@@ -59,6 +59,18 @@ body {
     background-attachment: fixed;
 }
 
+footer {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    img {
+        height: 25px;
+        width: 25px;
+        margin: 10px 10px;
+    }
+}
+
 @media (max-width: 800px){
     #slider {
         position: absolute;
