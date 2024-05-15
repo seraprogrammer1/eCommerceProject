@@ -19,17 +19,22 @@ function submit() {
 form.addEventListener('submit', (event) => {
     event.preventDefault();
 
-    console.log('did')
-
     let passed = true;
 
     // get all input and check for a value and if non changes input border and variable passed to false
     for (let i = 0; i < required.length; i++){
         const item = required[i];
-        console.log(item)
         if (item.value === ''){
             item.style.border = '1px red solid'
             passed = false;
+        }
+        else if (item.type == 'email'){
+            // regex for emails test to see if the input value matches the regex requirements
+            if (!/^\w+([.-]?\w+)@\w+([.-]?\w+)(\.\w{2,3})+$/.test(item.value)){
+                item.style.border = '1px red solid'
+                passed = false;
+                console.log('does not match')
+            }
         }
         else{
             item.style.border = 'border: 1px solid #ccc;'
